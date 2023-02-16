@@ -1,0 +1,3 @@
+D:/ClionWorks/CSE1242inC_HW2/cmake-build-debug/CMakeFiles/CSE1242inC_HW2.dir
+D:/ClionWorks/CSE1242inC_HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionWorks/CSE1242inC_HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
